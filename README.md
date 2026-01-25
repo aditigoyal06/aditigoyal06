@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Aditi 👋👋
 
-<!--
-**aditigoyal06/aditigoyal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner programmer learning how to build things step by step.
+Currently focusing on C++ for logic building and Python for problem solving.
 
-Here are some ideas to get you started:
+😊 What I'm learning
+- C++ (basics → DSA)
+- Python (core concepts, moving towards OOP)
+- Git & GitHub
+- Open source contribution (beginner level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐⭐ Projects
+- Pima Diabetes Classifier  
+  A beginner-level machine learning project to understand data preprocessing and model training.
+
+➡️➡️ Goals
+- Participate in GSSOC
+- Learn by contributing to open-source projects
+- Improve problem-solving and code reading skills
