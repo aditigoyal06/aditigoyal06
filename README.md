@@ -12,8 +12,9 @@ Currently focusing on C++ for logic building and Python for problem solving.
 ⭐⭐ Projects
 - Pima Diabetes Classifier  
   A beginner-level machine learning project to understand data preprocessing and model training.
+- Currently working on **Safe Synthesis**
 
 ➡️➡️ Goals
-- Participate in GSSOC
+- To participate in GSSOC
 - Learn by contributing to open-source projects
 - Improve problem-solving and code reading skills
