@@ -1,15 +1,21 @@
-Hi, I'm Aditi 👋👋
+# Hi, I'm Aditi ✨
 
-I'm a beginner programmer learning how to build things step by step.
-Currently focusing on C++ for logic building and Python for problem solving.
+I'm a beginner programmer learning how to build things step by step.  
+Currently focusing on **C++ for logic building** and **Python for problem solving**.
 
-😊 What I'm learning
-- C++ (basics → DSA)
-- Python (core concepts, moving towards OOP)
+---
+
+## What I'm Learning
+- C++ (Basics → DSA)
+- Python (Core Concepts → OOP)
 - Git & GitHub
-- Open source contribution (beginner level)
+- Open Source Contribution (Beginner Level)
 
-🔰Tech Stack:
+---
+
+## 🛠 Tech Stack
+Technologies I’m currently working with:
+
 ### 👩‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -23,16 +29,39 @@ Currently focusing on C++ for logic building and Python for problem solving.
 ### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-⭐⭐ Projects
-- Pima Diabetes Classifier  
-  A beginner-level machine learning project to understand data preprocessing and model training.
-- Currently working on **Safe Synthesis**
+---
 
-➡️➡️ Goals
-- To participate in GSSOC
-- Learn by contributing to open-source projects
-- Improve problem-solving and code reading skills
+## 📊 GitHub Stats
 
-📧 Email: [aditi.career06@gmail.com]
-💼 Linkedin:[Aditi]
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal06&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aditigoyal06&theme=tokyonight)
+
+---
+
+## ⭐ Projects
+- **Pima Diabetes Classifier**  
+  Beginner-level ML project to understand data preprocessing and model training.
+
+- **Safe Synthesis** *(Currently Working)*   
+
+---
+
+## 🎯 Goals
+- Participate in GSSOC  
+- Contribute to Open Source Projects  
+- Improve Problem-Solving Skills  
+- Get better at reading and understanding code  
+
+---
+
+## 📬 Contact
+
+📧 Email: [aditi.career06@gmail.com](mailto:aditi.career06@gmail.com)  
+
+💼 LinkedIn:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aditi-goyal-70a264352)
+
+---
+
+✨ *“Learning step by step, building something meaningful.”*
