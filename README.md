@@ -1,4 +1,4 @@
-# Hi, I'm Aditi ✨
+# Hi, I'm Aditi 
 
 I'm a beginner programmer learning how to build things step by step.  
 Currently focusing on **C++ for logic building** and **Python for problem solving**.
@@ -38,9 +38,6 @@ Technologies I’m currently working with:
 ---
 
 ## 📊 GitHub Stats
-
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal06&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=aditigoyal06&theme=tokyonight)
 
 ---
@@ -61,7 +58,7 @@ Technologies I’m currently working with:
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 Email: [aditi.career06@gmail.com](mailto:aditi.career06@gmail.com)  
 
