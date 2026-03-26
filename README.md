@@ -22,18 +22,24 @@ Technologies I’m currently working with:
 ### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?stylefor-the-badge&logo=scikitlearn)
 
 ### 📈 Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal06&show_icons=true&theme=tokyonight)
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditigoyal06&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aditigoyal06&theme=tokyonight)
 
