@@ -22,7 +22,7 @@ Technologies I’m currently working with:
 ### 📊 Data Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?stylefor-the-badge&logo=scikitlearn)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?stylefor-the-badge&logo=scikitlearn) 
 
 ### 📈 Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
